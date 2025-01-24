@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily overlooked programming error in Java: integer overflow. The example code shows how adding two large integers using the `int` data type can lead to unexpected results. A solution using the `long` data type is provided to prevent the issue.  Additional notes show how Doubles handle such circumstances.
